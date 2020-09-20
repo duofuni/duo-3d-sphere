@@ -20,6 +20,7 @@ $ npm i duo-3d-sphere --save             # install duo-3d-sphere
 ### 依赖
 
 [→ three.js](https://threejs.org/)
+
 [→ tween.js](http://www.createjs.cc/tweenjs/)
 
 ### 用法
